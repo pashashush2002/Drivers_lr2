@@ -4,3 +4,5 @@ Assessment of delayed response to external influences
 hello.c - file of symbol driver
 main.c - file of testing program
 drivers.py - file for ploting histplots and couting avg and max values
+results.odt - logging file
+Отчёт Драйверы устройств 2.docx - report
